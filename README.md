@@ -10,8 +10,7 @@ https://drive.google.com/file/d/1HbxIHdxi1vMqq4zS1I2hPwEg36aICpjH/view?usp=shari
 
 
 
-Presentation:
-1. Can download "311_service"  from the / of this project
+Presentation: 1. Can download "311_service"  from the / of this project
 2. Can open from:  
 https://docs.google.com/presentation/d/1rBoeKK-7V5-Y2gwQgtxiq7mh-Kmm7FME/edit?usp=sharing&ouid=116179835469183778310&rtpof=true&sd=true
 
