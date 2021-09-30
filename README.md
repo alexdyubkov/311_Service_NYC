@@ -12,3 +12,12 @@ Presentation:
 1. Can download "311_service"  from the / of this project  
 2. Can open from:  
 https://docs.google.com/presentation/d/1rBoeKK-7V5-Y2gwQgtxiq7mh-Kmm7FME/edit?usp=sharing&ouid=116179835469183778310&rtpof=true&sd=true
+
+
+How to read the code without downloading:  
+Since github is not the best place to upload .ipynb files sometimes it demands some workaround to display it without downloading.  
+I used 3'rd party service to display my code, but it brought some non-critical anomalies:  
+List of anomalies:     
+a)Geo map doesn't shown properly   
+b)output result for each cell isn't limited and it brings a lot of unnecessary data   
+With these artefacts you can view it from: https://nbviewer.jupyter.org/github/alexdyubkov/311_Service_NYC/blob/master/Project_311.ipynb
