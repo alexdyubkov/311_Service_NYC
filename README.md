@@ -4,7 +4,7 @@ Idea of this project:
 
 Data:  
 1.Can be downloaded from the original database by uncommenting the cell  
-2.You can use same downloaded data as I used. For it, please download 2 files from(links below) to the folder with the main code  
+2.You can use the same downloaded data as I used. For it, please download 2 files from(links below) to the folder with the main code  
 https://drive.google.com/file/d/1h8j_LlZ2qO2N980TadiBMVbtPGR0bkGB/view?usp=sharing  
 https://drive.google.com/file/d/1HbxIHdxi1vMqq4zS1I2hPwEg36aICpjH/view?usp=sharing  
 
