@@ -12,15 +12,15 @@ https://drive.google.com/file/d/1HbxIHdxi1vMqq4zS1I2hPwEg36aICpjH/view?usp=shari
 
 Presentation:<br>
 1. Can download "311_service.pptx"  from the / of this project
-2. Can open from:  
+2. Can be opened from here:  
 https://docs.google.com/presentation/d/1rBoeKK-7V5-Y2gwQgtxiq7mh-Kmm7FME/edit?usp=sharing&ouid=116179835469183778310&rtpof=true&sd=true
 
 
 
 
 How to read the code without downloading:  
-Since github is not the best place to upload .ipynb files sometimes it demands some workaround to display it without downloading.  
-I used 3'rd party service to display my code, but it brought some non-critical anomalies:  
+Since github is not the best place to upload .ipynb files, sometimes it demands some workaround to display it without downloading.  
+I used 3'rd party service 'nbviewer' to display my code in github, but it brought some non-critical anomalies:  
 List of anomalies:     
 a)Geo map doesn't shown properly   
 b)output result for each cell isn't limited and it brings a lot of unnecessary data   
